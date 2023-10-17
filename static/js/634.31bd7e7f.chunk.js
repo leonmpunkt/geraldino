@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgeraldino=self.webpackChunkgeraldino||[]).push([[634],{2634:function(e,r,n){n.r(r),n.d(r,{default:function(){return l}});n(2791);var a=n(184);var l=function(){return(0,a.jsx)("iframe",{src:"https://calendar.google.com/calendar/embed?src=rjm3uekajfq7nqqsm18unbcl1cu2au08%40import.calendar.google.com&ctz=Europe%2FBerlin",frameborder:"0",border:"0",cellspacing:"0",style:{borderStyle:"none",width:"100%",height:"500px"},width:"800",height:"600",frameBorder:"0",scrolling:"no",title:"Kalender"})}}}]);
-//# sourceMappingURL=634.31bd7e7f.chunk.js.map
