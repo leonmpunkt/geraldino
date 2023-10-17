@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgeraldino=self.webpackChunkgeraldino||[]).push([[115],{115:function(e,t,n){n.r(t);var u=n(885),r=n(791),f=n(861),a=n(184);t.default=function(){var e=(0,r.useState)(""),t=(0,u.Z)(e,2),n=t[0],c=t[1];return(0,r.useEffect)((function(){fetch("../text/Hallo.md").then((function(e){return e.text()})).then((function(e){c((0,f.TU)(e))}))}),[]),(0,a.jsx)("div",{dangerouslySetInnerHTML:{__html:n}})}}}]);
+//# sourceMappingURL=115.2e235874.chunk.js.map
