@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgeraldino=self.webpackChunkgeraldino||[]).push([[900],{900:function(e,n,t){t.r(n);var u=t(885),r=t(791),f=t(861),a=t(184);n.default=function(){var e=(0,r.useState)(""),n=(0,u.Z)(e,2),t=n[0],c=n[1];return(0,r.useEffect)((function(){fetch("../text/Kalender.md").then((function(e){return e.text()})).then((function(e){c((0,f.TU)(e))}))}),[]),(0,a.jsx)("div",{dangerouslySetInnerHTML:{__html:t}})}}}]);
-//# sourceMappingURL=900.fd0b40d1.chunk.js.map

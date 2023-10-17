@@ -1,26 +1,30 @@
 {
   "files": {
     "main.css": "/geraldino/static/css/main.7b8102ed.css",
-    "main.js": "/geraldino/static/js/main.27c94e1f.js",
-    "static/js/115.2e235874.chunk.js": "/geraldino/static/js/115.2e235874.chunk.js",
-    "static/js/499.81dcf7fc.chunk.js": "/geraldino/static/js/499.81dcf7fc.chunk.js",
-    "static/js/900.fd0b40d1.chunk.js": "/geraldino/static/js/900.fd0b40d1.chunk.js",
-    "static/js/497.c266f023.chunk.js": "/geraldino/static/js/497.c266f023.chunk.js",
+    "main.js": "/geraldino/static/js/main.86f717d3.js",
+    "static/js/403.57da79e2.chunk.js": "/geraldino/static/js/403.57da79e2.chunk.js",
+    "static/js/153.2059e8df.chunk.js": "/geraldino/static/js/153.2059e8df.chunk.js",
+    "static/js/168.0aebbca6.chunk.js": "/geraldino/static/js/168.0aebbca6.chunk.js",
+    "static/js/337.bd16bf1c.chunk.js": "/geraldino/static/js/337.bd16bf1c.chunk.js",
     "static/js/787.ea7b2243.chunk.js": "/geraldino/static/js/787.ea7b2243.chunk.js",
-    "static/js/861.1eb463a9.chunk.js": "/geraldino/static/js/861.1eb463a9.chunk.js",
+    "static/js/352.ee9af3d7.chunk.js": "/geraldino/static/js/352.ee9af3d7.chunk.js",
     "static/media/ger_Logo.svg": "/geraldino/static/media/ger_Logo.bb0d7d6e2c8ff99fab237b40fff2aada.svg",
     "index.html": "/geraldino/index.html",
+    "static/media/Hallo.md": "/geraldino/static/media/Hallo.5e73cbc339c86eab813a.md",
+    "static/media/Musik.md": "/geraldino/static/media/Musik.1a7be5ead461de05df68.md",
+    "static/media/Bio.md": "/geraldino/static/media/Bio.210e7e5c6722e3b88c25.md",
+    "static/media/Kalender.md": "/geraldino/static/media/Kalender.6d70ff6460b3c355404f.md",
     "main.7b8102ed.css.map": "/geraldino/static/css/main.7b8102ed.css.map",
-    "main.27c94e1f.js.map": "/geraldino/static/js/main.27c94e1f.js.map",
-    "115.2e235874.chunk.js.map": "/geraldino/static/js/115.2e235874.chunk.js.map",
-    "499.81dcf7fc.chunk.js.map": "/geraldino/static/js/499.81dcf7fc.chunk.js.map",
-    "900.fd0b40d1.chunk.js.map": "/geraldino/static/js/900.fd0b40d1.chunk.js.map",
-    "497.c266f023.chunk.js.map": "/geraldino/static/js/497.c266f023.chunk.js.map",
+    "main.86f717d3.js.map": "/geraldino/static/js/main.86f717d3.js.map",
+    "403.57da79e2.chunk.js.map": "/geraldino/static/js/403.57da79e2.chunk.js.map",
+    "153.2059e8df.chunk.js.map": "/geraldino/static/js/153.2059e8df.chunk.js.map",
+    "168.0aebbca6.chunk.js.map": "/geraldino/static/js/168.0aebbca6.chunk.js.map",
+    "337.bd16bf1c.chunk.js.map": "/geraldino/static/js/337.bd16bf1c.chunk.js.map",
     "787.ea7b2243.chunk.js.map": "/geraldino/static/js/787.ea7b2243.chunk.js.map",
-    "861.1eb463a9.chunk.js.map": "/geraldino/static/js/861.1eb463a9.chunk.js.map"
+    "352.ee9af3d7.chunk.js.map": "/geraldino/static/js/352.ee9af3d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b8102ed.css",
-    "static/js/main.27c94e1f.js"
+    "static/js/main.86f717d3.js"
   ]
 }
