@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geraldino/static/css/main.7b8102ed.css",
-    "main.js": "/geraldino/static/js/main.86f717d3.js",
-    "static/js/403.57da79e2.chunk.js": "/geraldino/static/js/403.57da79e2.chunk.js",
+    "main.js": "/geraldino/static/js/main.7cccbcc8.js",
+    "static/js/403.a706529b.chunk.js": "/geraldino/static/js/403.a706529b.chunk.js",
     "static/js/153.2059e8df.chunk.js": "/geraldino/static/js/153.2059e8df.chunk.js",
     "static/js/168.0aebbca6.chunk.js": "/geraldino/static/js/168.0aebbca6.chunk.js",
     "static/js/337.bd16bf1c.chunk.js": "/geraldino/static/js/337.bd16bf1c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/352.ee9af3d7.chunk.js": "/geraldino/static/js/352.ee9af3d7.chunk.js",
     "static/media/ger_Logo.svg": "/geraldino/static/media/ger_Logo.bb0d7d6e2c8ff99fab237b40fff2aada.svg",
     "index.html": "/geraldino/index.html",
-    "static/media/Hallo.md": "/geraldino/static/media/Hallo.5e73cbc339c86eab813a.md",
+    "static/media/Hallo.md": "/geraldino/static/media/Hallo.c05ec652fb9eedff3f06.md",
     "static/media/Musik.md": "/geraldino/static/media/Musik.1a7be5ead461de05df68.md",
     "static/media/Bio.md": "/geraldino/static/media/Bio.210e7e5c6722e3b88c25.md",
     "static/media/Kalender.md": "/geraldino/static/media/Kalender.6d70ff6460b3c355404f.md",
     "main.7b8102ed.css.map": "/geraldino/static/css/main.7b8102ed.css.map",
-    "main.86f717d3.js.map": "/geraldino/static/js/main.86f717d3.js.map",
-    "403.57da79e2.chunk.js.map": "/geraldino/static/js/403.57da79e2.chunk.js.map",
+    "main.7cccbcc8.js.map": "/geraldino/static/js/main.7cccbcc8.js.map",
+    "403.a706529b.chunk.js.map": "/geraldino/static/js/403.a706529b.chunk.js.map",
     "153.2059e8df.chunk.js.map": "/geraldino/static/js/153.2059e8df.chunk.js.map",
     "168.0aebbca6.chunk.js.map": "/geraldino/static/js/168.0aebbca6.chunk.js.map",
     "337.bd16bf1c.chunk.js.map": "/geraldino/static/js/337.bd16bf1c.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.7b8102ed.css",
-    "static/js/main.86f717d3.js"
+    "static/js/main.7cccbcc8.js"
   ]
 }

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgeraldino=self.webpackChunkgeraldino||[]).push([[403],{650:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var r=t(439),c=t(791),u=t(352),a=t.p+"static/media/Hallo.5e73cbc339c86eab813a.md",o=t(184),f=function(){var n=(0,c.useState)(""),e=(0,r.Z)(n,2),t=e[0],f=e[1];return(0,c.useEffect)((function(){fetch(a).then((function(n){return n.text()})).then((function(n){return f(n)})).catch((function(n){return console.error("Error fetching markdown:",n)}))}),[]),(0,o.jsx)(u.U,{children:t})}}}]);
-//# sourceMappingURL=403.57da79e2.chunk.js.map
