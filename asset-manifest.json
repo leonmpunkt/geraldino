@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geraldino/static/css/main.7f4393c7.css",
-    "main.js": "/geraldino/static/js/main.981f5fb1.js",
+    "main.css": "/geraldino/static/css/main.8c67dd52.css",
+    "main.js": "/geraldino/static/js/main.298bb0dd.js",
     "static/js/787.ea7b2243.chunk.js": "/geraldino/static/js/787.ea7b2243.chunk.js",
     "index.html": "/geraldino/index.html",
-    "main.7f4393c7.css.map": "/geraldino/static/css/main.7f4393c7.css.map",
-    "main.981f5fb1.js.map": "/geraldino/static/js/main.981f5fb1.js.map",
+    "main.8c67dd52.css.map": "/geraldino/static/css/main.8c67dd52.css.map",
+    "main.298bb0dd.js.map": "/geraldino/static/js/main.298bb0dd.js.map",
     "787.ea7b2243.chunk.js.map": "/geraldino/static/js/787.ea7b2243.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f4393c7.css",
-    "static/js/main.981f5fb1.js"
+    "static/css/main.8c67dd52.css",
+    "static/js/main.298bb0dd.js"
   ]
 }
