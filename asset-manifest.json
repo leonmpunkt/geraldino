@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/geraldino/static/css/main.7b8102ed.css",
-    "main.js": "/geraldino/static/js/main.7cccbcc8.js",
-    "static/js/403.a706529b.chunk.js": "/geraldino/static/js/403.a706529b.chunk.js",
-    "static/js/153.2059e8df.chunk.js": "/geraldino/static/js/153.2059e8df.chunk.js",
-    "static/js/168.0aebbca6.chunk.js": "/geraldino/static/js/168.0aebbca6.chunk.js",
-    "static/js/337.bd16bf1c.chunk.js": "/geraldino/static/js/337.bd16bf1c.chunk.js",
+    "main.js": "/geraldino/static/js/main.f4c2078b.js",
+    "static/js/403.77627b2f.chunk.js": "/geraldino/static/js/403.77627b2f.chunk.js",
+    "static/js/153.cf472531.chunk.js": "/geraldino/static/js/153.cf472531.chunk.js",
+    "static/js/168.b287b20d.chunk.js": "/geraldino/static/js/168.b287b20d.chunk.js",
+    "static/js/337.d9785e9b.chunk.js": "/geraldino/static/js/337.d9785e9b.chunk.js",
     "static/js/787.ea7b2243.chunk.js": "/geraldino/static/js/787.ea7b2243.chunk.js",
-    "static/js/352.ee9af3d7.chunk.js": "/geraldino/static/js/352.ee9af3d7.chunk.js",
+    "static/js/370.319e5447.chunk.js": "/geraldino/static/js/370.319e5447.chunk.js",
+    "static/js/876.426844e3.chunk.js": "/geraldino/static/js/876.426844e3.chunk.js",
     "static/media/ger_Logo.svg": "/geraldino/static/media/ger_Logo.bb0d7d6e2c8ff99fab237b40fff2aada.svg",
     "index.html": "/geraldino/index.html",
-    "static/media/Hallo.md": "/geraldino/static/media/Hallo.c05ec652fb9eedff3f06.md",
+    "static/media/Hallo.md": "/geraldino/static/media/Hallo.8b29467011f1c071481a.md",
     "static/media/Musik.md": "/geraldino/static/media/Musik.1a7be5ead461de05df68.md",
     "static/media/Bio.md": "/geraldino/static/media/Bio.210e7e5c6722e3b88c25.md",
     "static/media/Kalender.md": "/geraldino/static/media/Kalender.6d70ff6460b3c355404f.md",
     "main.7b8102ed.css.map": "/geraldino/static/css/main.7b8102ed.css.map",
-    "main.7cccbcc8.js.map": "/geraldino/static/js/main.7cccbcc8.js.map",
-    "403.a706529b.chunk.js.map": "/geraldino/static/js/403.a706529b.chunk.js.map",
-    "153.2059e8df.chunk.js.map": "/geraldino/static/js/153.2059e8df.chunk.js.map",
-    "168.0aebbca6.chunk.js.map": "/geraldino/static/js/168.0aebbca6.chunk.js.map",
-    "337.bd16bf1c.chunk.js.map": "/geraldino/static/js/337.bd16bf1c.chunk.js.map",
+    "main.f4c2078b.js.map": "/geraldino/static/js/main.f4c2078b.js.map",
+    "403.77627b2f.chunk.js.map": "/geraldino/static/js/403.77627b2f.chunk.js.map",
+    "153.cf472531.chunk.js.map": "/geraldino/static/js/153.cf472531.chunk.js.map",
+    "168.b287b20d.chunk.js.map": "/geraldino/static/js/168.b287b20d.chunk.js.map",
+    "337.d9785e9b.chunk.js.map": "/geraldino/static/js/337.d9785e9b.chunk.js.map",
     "787.ea7b2243.chunk.js.map": "/geraldino/static/js/787.ea7b2243.chunk.js.map",
-    "352.ee9af3d7.chunk.js.map": "/geraldino/static/js/352.ee9af3d7.chunk.js.map"
+    "370.319e5447.chunk.js.map": "/geraldino/static/js/370.319e5447.chunk.js.map",
+    "876.426844e3.chunk.js.map": "/geraldino/static/js/876.426844e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b8102ed.css",
-    "static/js/main.7cccbcc8.js"
+    "static/js/main.f4c2078b.js"
   ]
 }

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgeraldino=self.webpackChunkgeraldino||[]).push([[153],{459:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var r=t(439),u=t(791),c=t(352),f=t.p+"static/media/Musik.1a7be5ead461de05df68.md",i=t(184),a=function(){var e=(0,u.useState)(""),n=(0,r.Z)(e,2),t=n[0],a=n[1];return(0,u.useEffect)((function(){fetch(f).then((function(e){return e.text()})).then((function(e){return a(e)})).catch((function(e){return console.error("Error fetching markdown:",e)}))}),[]),(0,i.jsx)(c.U,{children:t})}}}]);
-//# sourceMappingURL=153.2059e8df.chunk.js.map
