@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/geraldino/static/css/main.7b8102ed.css",
-    "main.js": "/geraldino/static/js/main.48f4c453.js",
+    "main.js": "/geraldino/static/js/main.fa26ac5c.js",
     "static/js/403.a5267e61.chunk.js": "/geraldino/static/js/403.a5267e61.chunk.js",
-    "static/js/153.6f30f068.chunk.js": "/geraldino/static/js/153.6f30f068.chunk.js",
+    "static/js/170.90821307.chunk.js": "/geraldino/static/js/170.90821307.chunk.js",
     "static/css/269.3cff27ca.chunk.css": "/geraldino/static/css/269.3cff27ca.chunk.css",
-    "static/js/269.2ee0eb0c.chunk.js": "/geraldino/static/js/269.2ee0eb0c.chunk.js",
+    "static/js/269.2fdd9603.chunk.js": "/geraldino/static/js/269.2fdd9603.chunk.js",
     "static/js/337.3a3d6aa6.chunk.js": "/geraldino/static/js/337.3a3d6aa6.chunk.js",
     "static/js/787.ea7b2243.chunk.js": "/geraldino/static/js/787.ea7b2243.chunk.js",
     "static/js/442.4533534c.chunk.js": "/geraldino/static/js/442.4533534c.chunk.js",
@@ -18,11 +18,11 @@
     "static/media/Bio.md": "/geraldino/static/media/Bio.210e7e5c6722e3b88c25.md",
     "static/media/Kalender.md": "/geraldino/static/media/Kalender.6d70ff6460b3c355404f.md",
     "main.7b8102ed.css.map": "/geraldino/static/css/main.7b8102ed.css.map",
-    "main.48f4c453.js.map": "/geraldino/static/js/main.48f4c453.js.map",
+    "main.fa26ac5c.js.map": "/geraldino/static/js/main.fa26ac5c.js.map",
     "403.a5267e61.chunk.js.map": "/geraldino/static/js/403.a5267e61.chunk.js.map",
-    "153.6f30f068.chunk.js.map": "/geraldino/static/js/153.6f30f068.chunk.js.map",
+    "170.90821307.chunk.js.map": "/geraldino/static/js/170.90821307.chunk.js.map",
     "269.3cff27ca.chunk.css.map": "/geraldino/static/css/269.3cff27ca.chunk.css.map",
-    "269.2ee0eb0c.chunk.js.map": "/geraldino/static/js/269.2ee0eb0c.chunk.js.map",
+    "269.2fdd9603.chunk.js.map": "/geraldino/static/js/269.2fdd9603.chunk.js.map",
     "337.3a3d6aa6.chunk.js.map": "/geraldino/static/js/337.3a3d6aa6.chunk.js.map",
     "787.ea7b2243.chunk.js.map": "/geraldino/static/js/787.ea7b2243.chunk.js.map",
     "442.4533534c.chunk.js.map": "/geraldino/static/js/442.4533534c.chunk.js.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.7b8102ed.css",
-    "static/js/main.48f4c453.js"
+    "static/js/main.fa26ac5c.js"
   ]
 }
